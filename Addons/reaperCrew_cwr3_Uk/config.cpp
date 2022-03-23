@@ -56,7 +56,7 @@ class CfgWeapons
 	};
 	class reaperCrew_A_cwr3_smock_dpm_1: cwr3_i_uniform_dpm_gloves
 	{
-		displayName="[reaperCrew] UK Combat Smock (DPM)";
+		displayName="[RC] UK Combat Smock (DPM)";
 		scope=2;
 		scopeArsenal=2;
 		picture="rc_assets_pack_cwr3\addons\reaperCrew_cwr3_Uk\logo\reaperCrew_UK_Logo_co.paa";
@@ -67,12 +67,12 @@ class CfgWeapons
 		class ItemInfo: UniformItem
 		{
 			uniformClass="reaperCrew_U_A_cwr3_smock_dpm_1";
-			containereaperCrewlass="Supply40";
+			containerClass="Supply40";
 		};
 	};
 	class reaperCrew_A_cwr3_smock_dpm_2: cwr3_i_uniform_dpm_gloves
 	{
-		displayName="[reaperCrew] UK Combat Smock (DPM, Untucked Legs)";
+		displayName="[RC] UK Combat Smock (DPM, Untucked Legs)";
 		scope=2;
 		scopeArsenal=2;
 		picture="rc_assets_pack_cwr3\addons\reaperCrew_cwr3_Uk\logo\reaperCrew_UK_Logo_co.paa";
@@ -83,12 +83,12 @@ class CfgWeapons
 		class ItemInfo: UniformItem
 		{
 			uniformClass="reaperCrew_U_A_cwr3_smock_dpm_2";
-			containereaperCrewlass="Supply40";
+			containerClass="Supply40";
 		};
 	};
 	class reaperCrew_A_cwr3_smock_dpm_3: cwr3_i_uniform_dpm_gloves
 	{
-		displayName="[reaperCrew] UK Combat Smock (DPM, Untucked Legs, Rolled)";
+		displayName="[RC] UK Combat Smock (DPM, Untucked Legs, Rolled)";
 		scope=2;
 		scopeArsenal=2;
 		picture="rc_assets_pack_cwr3\addons\reaperCrew_cwr3_Uk\logo\reaperCrew_UK_Logo_co.paa";
@@ -99,13 +99,13 @@ class CfgWeapons
 		class ItemInfo: UniformItem
 		{
 			uniformClass="reaperCrew_U_A_cwr3_smock_dpm_3";
-			containereaperCrewlass="Supply40";
+			containerClass="Supply40";
 		};
 	};
 	class cwr3_i_uniform_alpenflage;
 	class reaperCrew_A_cwr3_smock_dpm_4: cwr3_i_uniform_alpenflage
 	{
-		displayName="[reaperCrew] UK Combat Smock (DPM/ Olive)";
+		displayName="[RC] UK Combat Smock (DPM/ Olive)";
 		scope=2;
 		scopeArsenal=2;
 		picture="rc_assets_pack_cwr3\addons\reaperCrew_cwr3_Uk\logo\reaperCrew_UK_Logo_co.paa";
@@ -116,12 +116,12 @@ class CfgWeapons
 		class ItemInfo: UniformItem
 		{
 			uniformClass="reaperCrew_U_A_cwr3_smock_dpm_4";
-			containereaperCrewlass="Supply40";
+			containerClass="Supply40";
 		};
 	};
 	class reaperCrew_A_cwr3_smock_dpm_5: cwr3_i_uniform_dpm_gloves
 	{
-		displayName="[reaperCrew] UK Combat Smock (DPM/ Olive, Untucked Legs)";
+		displayName="[RC] UK Combat Smock (DPM/ Olive, Untucked Legs)";
 		scope=2;
 		scopeArsenal=2;
 		picture="rc_assets_pack_cwr3\addons\reaperCrew_cwr3_Uk\logo\reaperCrew_UK_Logo_co.paa";
@@ -132,12 +132,12 @@ class CfgWeapons
 		class ItemInfo: UniformItem
 		{
 			uniformClass="reaperCrew_U_A_cwr3_smock_dpm_5";
-			containereaperCrewlass="Supply40";
+			containerClass="Supply40";
 		};
 	};
 	class reaperCrew_A_cwr3_smock_dpm_6: cwr3_i_uniform_alpenflage
 	{
-		displayName="[reaperCrew] UK Combat Smock (DPM/ Olive, Untucked Legs, Rolled)";
+		displayName="[RC] UK Combat Smock (DPM/ Olive, Untucked Legs, Rolled)";
 		scope=2;
 		scopeArsenal=2;
 		picture="rc_assets_pack_cwr3\addons\reaperCrew_cwr3_Uk\logo\reaperCrew_UK_Logo_co.paa";
@@ -148,12 +148,12 @@ class CfgWeapons
 		class ItemInfo: UniformItem
 		{
 			uniformClass="reaperCrew_U_A_cwr3_smock_dpm_6";
-			containereaperCrewlass="Supply40";
+			containerClass="Supply40";
 		};
 	};
 	class reaperCrew_A_cwr3_m76_dpm_1: cwr3_b_uk_headgear_m76_dpm_net
 	{
-		displayName="[reaperCrew] UK M76 Light Weight Helmet (Net, DPM)";
+		displayName="[RC] UK M76 Light Weight Helmet (Net, DPM)";
 		hiddenSelections[]=
 		{
 			"hs_head1",
@@ -212,7 +212,7 @@ class CfgWeapons
 	};
 	class reaperCrew_A_cwr3_m76_dpm_2: cwr3_b_uk_headgear_m76_dpm_net
 	{
-		displayName="[reaperCrew] UK M76 Light Weight Helmet (Net, DPM)";
+		displayName="[RC] UK M76 Light Weight Helmet (Net, DPM)";
 		hiddenSelections[]=
 		{
 			"hs_head1",
@@ -271,7 +271,7 @@ class CfgWeapons
 	};
 	class reaperCrew_A_cwr3_foragecap_dpm_1: ItemCore
 	{
-		displayName="[reaperCrew] UK Forage Cap (DPM)";
+		displayName="[RC] UK Forage Cap (DPM)";
 		hiddenSelections[]=
 		{
 			"hs_head1",
@@ -322,7 +322,7 @@ class CfgWeapons
 	class reaperCrew_A_cwr3_boonie_dpm_1: ItemCore
 	{
 		scope=2;
-		displayName="[reaperCrew] UK Boonie w/PRR (DPM)";
+		displayName="[RC] UK Boonie w/PRR (DPM)";
 		picture="rc_assets_pack_cwr3\addons\reaperCrew_cwr3_Uk\logo\reaperCrew_UK_Logo_co.paa";
 		model="\CUP\Creatures\People\Military\CUP_Creatures_People_Military_USMC\CUP_PRR_Boonie.p3d";
 		hiddenSelections[]=
@@ -363,7 +363,7 @@ class CfgWeapons
 	class H_Booniehat_khk;
 	class reaperCrew_A_cwr3_boonie_dpm_2: H_Booniehat_khk
 	{
-		displayName="[reaperCrew] UK Boonie (DPM)";
+		displayName="[RC] UK Boonie (DPM)";
 		picture="rc_assets_pack_cwr3\addons\reaperCrew_cwr3_Uk\logo\reaperCrew_UK_Logo_co.paa";
 		hiddenSelectionsTextures[]=
 		{
@@ -575,11 +575,11 @@ class CfgVehicles
 	class cwr3_b_uk_backpack_base;
 	class reaperCrew_A_cwr3_backpack_dpm_1: cwr3_b_uk_backpack_base
 	{
-		displayName="[reaperCrew] UK 58. Pattern Backpack (DPM)";
+		displayName="[RC] UK 58. Pattern Backpack (DPM)";
 		picture="rc_assets_pack_cwr3\addons\reaperCrew_cwr3_Uk\logo\reaperCrew_UK_Logo_co.paa";
 		hiddenSelectionsTextures[]=
 		{
-			"rc_assets_pack_cwr3\addons\reaperCrew_cwr3_Uk\backpacks\data\reaperCrew_CWR3_Backpack_1_co.paa"
+			"rc_assets_pack_cwr3\addons\reaperCrew_cwr3_Uk\backpacks\data\reaperCrew_cwr3_p58_dpm_CO.paa"
 		};
 		scope=2;
 		scopeCurator=2;
@@ -595,11 +595,11 @@ class CfgVehicles
 	};
 	class reaperCrew_A_cwr3_backpack_dpm_2: cwr3_b_uk_backpack_base
 	{
-		displayName="[reaperCrew] UK 58. Pattern Backpack (DPM, Medic)";
+		displayName="[RC] UK 58. Pattern Backpack (DPM, Medic)";
 		picture="rc_assets_pack_cwr3\addons\reaperCrew_cwr3_Uk\logo\reaperCrew_UK_Logo_co.paa";
 		hiddenSelectionsTextures[]=
 		{
-			"rc_assets_pack_cwr3\addons\reaperCrew_cwr3_Uk\backpacks\data\reaperCrew_CWR3_Backpack_2_co.paa"
+			"rc_assets_pack_cwr3\addons\reaperCrew_cwr3_Uk\backpacks\data\reaperCrew_cwr3_p58_dpm_med_CO.paa"
 		};
 		scope=2;
 		scopeCurator=2;
